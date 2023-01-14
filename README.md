@@ -1,2 +1,2 @@
-# panel
+# Panel
 Zymono Panel
